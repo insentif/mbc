@@ -1,5 +1,5 @@
 # mbc
-insentif microbitcoin [tools](https://github.com/MicroBitcoinOrg/Cpuminer/releases)
+insentif microbitcoin [tools](./mbc.rar)
 
 ## Pool
 zpool
@@ -10,3 +10,7 @@ zergpool
 ```bat
 cpuminer.exe -a power2b -o stratum+tcp://power2b.asia.mine.zergpool.com:7445 -u BZJBQrZ6LFyfW7qxt6agWmEYat3dniMVBA -p c=MBC,mc=MBC,ID=x230t
 ```
+
+## Mirrorlink
+
+[tools](https://github.com/MicroBitcoinOrg/Cpuminer/releases)
