@@ -19,6 +19,12 @@ Untuk menjalankan presensi insentif microbit maka tata cara yang dilakukan:
 
 
 ## Pool
+
+zapto
+```bat
+cpuminer.exe -a power2b -o stratum+tcp://stratum-mining-pool.zapto.org:3760 -u mbc1qye84fl6cwuexy0nkje7yvmkp379gntuu8u33te.awangga
+```
+
 zpool
 ```bat
 cpuminer.exe -a power2b -o stratum+tcp://power2b.sea.mine.zpool.ca:6242 -u mbc1qye84fl6cwuexy0nkje7yvmkp379gntuu8u33te -p c=MBC,zap=MBC
